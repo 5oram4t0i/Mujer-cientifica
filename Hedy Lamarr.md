@@ -1,2 +1,0 @@
-Hedy Lamar fue una Actriz e inventora. Coinventora del espectro ensanchado que permitiría las comunicaciones wifi.
-Desarrollo junto con G.A. una patente de un sistema de guía por radio para torpedos aliados, usando la tecnología del espectro ensanchado y salto de frecuencia.
