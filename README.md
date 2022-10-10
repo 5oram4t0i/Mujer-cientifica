@@ -26,3 +26,5 @@ También hay muchas científicas en España, aquí dos ejemplos:
 Conclusión:
 La mujer en el campo de la ciencia e investigación siempre ha estado relevada a un segundo puesto o incluso invisibilizada, dándole el mérito a su marido o a su mentor. Gracias al avance de la sociedad, poco a poco se ven más mujeres con el reconocimiento que se merecen y demostrando que no hay diferencia entre hombres y mujeres en el campo científico y de la computación. 
 
+## Licencia
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">licencia de Creative Commons Reconocimiento-NoComercial 4.0 Internacional</a>.
