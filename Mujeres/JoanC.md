@@ -1,0 +1,1 @@
+Joan Clarke fue Criptoanalista y numismática. Trabajó en el grupo de Alan Turing para desencriptar los códigos de comunicaciones secretas de la Alemania Nazi
