@@ -30,7 +30,7 @@ También hay muchas científicas en España, aquí dos ejemplos:
 
 - [Elena García Armada](ElenaGA.md)
 
-Conclusión:
+## Conclusión:
 
 La mujer en el campo de la ciencia e investigación siempre ha estado relevada a un segundo puesto o incluso invisibilizada, dándole el mérito a su marido o a su mentor. Gracias al avance de la sociedad, poco a poco se ven más mujeres con el reconocimiento que se merecen y demostrando que no hay diferencia entre hombres y mujeres en el campo científico y de la computación. 
 
