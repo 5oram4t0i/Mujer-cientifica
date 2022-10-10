@@ -1,0 +1,1 @@
+Elena Garcia Armada es Ingeniera industrial española, Lidera el grupo del consejo superior de investigaciones científicas (CSIC) Desarrolladores del primer exoesqueleto biónico para niños con atrofia muscular espinal.
