@@ -4,3 +4,6 @@
 Durante este proyecto vamos a ver la relevancia de las mujeres y su contribución al mundo de la computación:
 
 - [Hedy Lamarr](HedyLamarr.md)
+- [Radia Joy Pealman](RadiaJP.md)
+- [Joan Clarke](JoanC.md)
+- [Grace Murray](GraceM.md)
