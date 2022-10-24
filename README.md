@@ -6,29 +6,29 @@ Durante este proyecto vamos a ver la relevancia de las mujeres y su contribució
 
 ![Hedy Lamarr](/Imagenes/Hedy_Lamarr_in_The_Heavenly_Body_1944.jpg)
 
-- [Hedy Lamarr](HedyLamarr.md)
+- [Hedy Lamarr](/Mujeres/HedyLamarr.md)
 
 ![Radia Joy Pealman](/Imagenes/220px-Radia_Perlman_2009.jpg)
 
-- [Radia Joy Pealman](RadiaJP.md)
+- [Radia Joy Pealman](/Mujeres/RadiaJP.md)
 
 ![Joan Clarke](/Imagenes/joanc1.jpg)
 
-- [Joan Clarke](JoanC.md)
+- [Joan Clarke](/Mujeres/JoanC.md)
 
 ![Grace Murray](/Imagenes/Commodore_Grace_M._Hopper%2C_USN_(covered)_head_and_shoulders_crop.jpg)
 
-- [Grace Murray](GraceM.md)
+- [Grace Murray](/Mujeres/GraceM.md)
 
 También hay muchas científicas en España, aquí dos ejemplos:
 
 ![María Blasco Marhuenda](/Imagenes/mariablasco3.jpg)
 
-- [María Blasco Marhuenda](MariaBM.md)
+- [María Blasco Marhuenda](/Mujeres/MariaBM.md)
 
 ![Elena García Armada](/Imagenes/16218491645438.jpg)
 
-- [Elena García Armada](ElenaGA.md)
+- [Elena García Armada](/Mujeres/ElenaGA.md)
 
 ## Conclusión:
 
